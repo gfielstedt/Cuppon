@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 h2 h3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+h4 h5 h6 p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  color: #707070;
+}
+nav .navbar-collapse {
+  justify-content: end;
+}
+.navbar {
+  background-color: #28a745;
+}
+nav a img {
+  width: 150px;
+}
+.card .direction {
+  display: flex;
+  justify-content: space-evenly;
+}
+.card .price {
+  display: flex;
+}
+.card .price h3 {
+  color: #28a745;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+form {
+  background-color: #28a745;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+footer {
+  text-align: center;
+}
+footer img {
+  width: 150px;
+}
